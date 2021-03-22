@@ -9,48 +9,19 @@
 
      Note: md processors can process liquid tags so I need to play with liquid tags and see what I can use.
 -->
-# ![readme logo](./assets/logo.png)  Fred Grott's Readme
 
-I created this personal **README** document to help you get to know me and how I work. This document acknowledged:
+# Hi, I'm Fred Grott; A Flutter Developer, Trainer, and Author
 
-*[Matej's README](https://gitlab.com/matejlatin/focus#matej-readmemd)
+I'm the crazy person bootstrap starting some businesses during the COVID-pandemic. I'm producing Flutter demo app code and Flutter Development articles at Medium.
 
-*[Tim Hey's README](https://about.gitlab.com/handbook/product/readme/tim-hey.html)
+My Flutter Demo code is at:
 
-*[Matias Singers' Currated Awesome README List](https://github.com/matiassingers/awesome-readme)
+-[flutter deep dive](https://github.com/fredgrott/flutterdeepdive)
 
-## ![cranes](./assets/cranes.png) My Git Repo Cloud Profiles
+I am on these social sites:
 
-*[Bitbucket Profile](https://bitbucket.org/fredgrott/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fredgrott)[![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Fred_Grott/cv)[![keybase](https://img.shields.io/badge/Keybase-33A0FF?&style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/fredgrott)[![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fredgrott)[![medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://fredgrott.medium.com)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredgrottstartupfluttermobileappdesigner/)
 
-*[Github Profile](https://github.com/fredgrott)
+My development and design articles are at:
 
-*[Gitlab Profile](https://gitlab.com/fred.grott)
-
-### Projects Of Note
-
-
-
-## ![mystory](./assets/mystory.png) About Fred Grott
->Developing and Designing an App is *not Programming a Computer* **but Programming a Human**
-
-**I am the crazy SOB** that started an innovation studio, [Innovation Studio Name]() during the **COVID pandemic**.
-
-I write about mobile app development, design, and life at my [Medium Profile](https://medium.com/@fredgrott). My slides on mobile app design, development, maniefestos, and life at my **[SpeakerDeck Profile](https://speakerdeck.com/fredgrott)**. And, I am also starting a youtube channel, [DesignHacking](https://www.youtube.com/channel/UCBRREUKFNWIELQ3oBzeXiMA)
-
-I am **self-publishing** some books on app development and design and at some point I will be creating a series of video courses on mobile app development. You can keep track and get the announcement when the book and videos come out at **[my personal website](https://fredgrott.github.io)**.
-
-I contribute to Flutter and Dart Community Plugins including the **[Flutter Platform Widgets Plugin@Github](https://github.com/aqwert/flutter_platform_widgets)**.
-
-
-## ![bluebutterfly](./assets/bluebutterfly.png) How I Work
-**Sorry, I do not work :tent: your way**. After suffering decades with uncontrolled **ADD form of ADHD**, I developed my own modified workflow system based on **cognitive science** and **applied cognitive pyschology**. It fits the chaos in my head while at the same time adjusts to my own deep focus spurts when I get passionately interested in something.
-
-
-
-## ![cards](./assets/cards.png) How To Reach Me
->**Do Not Be A Dick**! I do not answer inquires from recruiters or dev-design shops inquiring to use their services. Individual dev or designer questions are at  flutter subject area forums of **stackoverflow**([Flutter](https://stackoverflow.com/tags/flutter)) or **reddit**([FlutterDev](https://www.reddit.com/r/FlutterDev/)).
-
-You can contact me at **fred** DOT **grott** AT **gmail** DOT **com** or you can **DM at my [Keybase Profile](https://keybase.io/fredgrott)**. I can be also DM at my [Discord Profile](https://discordapp.com/users/9388/) or at my [fluttercommuity slack profile](https://fluttercommunity.slack.com/UHK8PNRGU).
-
-Keep in mind that most developers and designers prefer to not  interrupted for  blocks of time as that they need that focus time to work on code or digital design work thus do not expect that I drop everything to respond to you. I will get to it if it's important when I get to it.
+-[My Medium Blog](https://fredgrott.medium.com)
