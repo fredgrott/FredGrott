@@ -25,3 +25,11 @@ I am on these social sites:
 My development and design articles are at:
 
 -[My Medium Blog](https://fredgrott.medium.com)
+
+My Keybase site is at:
+
+-[My Keybase Site](https://fredgrott.keybase.pub)
+
+And you can DM me on keybase:
+
+-[My Keybase Profile](https://keybase.io/fredgrott)
