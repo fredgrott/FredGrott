@@ -1,35 +1,34 @@
-<!-- 1. headers should always have beg images
-     2. Small paragraphs of 2 to 3 sentences
-     3. Stylize the words to assist and enlist chunking.
-     4. The About should be concise CV
-     5. Use feeling and pain-a-picture words instead of academic words
-     6. Since this is a git porfile readme never list your popular git repos as github, gitlab, and bitbucket wil do that automatically for your profile page added headers. Instead list your git cloud repos is more than one.
-     7. Refrain from adding collapsible content as your git repo profile page is not suppose to be that lengthy long and boring.
-     8. Put a 1-2-sentence summary of your personal manifesto in the About block as a blockquote.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/logo-name-type.png" width="600" height="200">
+</p>	
+<img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
 
-     Note: md processors can process liquid tags so I need to play with liquid tags and see what I can use.
--->
+# Hello
 
-# Hi, I'm Fred Grott; A Flutter Developer, Trainer, and Author
+I am startup front-end developer and designer. I am building some flutter apps and writing some flutter app developer and designer books.
 
-I'm the crazy person bootstrap starting some businesses during the COVID-pandemic. I'm producing Flutter demo app code and Flutter Development articles at Medium.
+<ul>
+<li>Front-End Web Developer</li>
+<li>Open Sourcerer</li>
+<li>Bullet List Enthusiast</li>
+</ul>
 
-My Flutter Demo code is at:
+## I am good at a few things:
 
--[flutter deep dive](https://github.com/fredgrott/flutterdeepdive)
+<img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/tags.svg" width="auto" height="auto">
 
-I am on these social sites:
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fredgrott)[![Xing](https://img.shields.io/badge/Xing-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Fred_Grott/cv)[![keybase](https://img.shields.io/badge/Keybase-33A0FF?&style=for-the-badge&logo=keybase&logoColor=white)](https://keybase.io/fredgrott)[![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fredgrott)[![medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://fredgrott.medium.com)[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredgrottstartupfluttermobileappdesigner/)
+## Contact
 
-My development and design articles are at:
+You can DM me at my KeyBase Profile:
+https://keybase.io/fredgrott
 
--[My Medium Blog](https://fredgrott.medium.com)
 
-My Keybase site is at:
+## My blog
 
--[My Keybase Site](https://fredgrott.keybase.pub)
+https://fredgrott.medium.com
 
-And you can DM me on keybase:
 
--[My Keybase Profile](https://keybase.io/fredgrott)
+
+
+

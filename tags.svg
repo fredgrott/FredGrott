@@ -1,0 +1,57 @@
+<svg fill="none" viewBox="0 0 300 480" width="300" height=480" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+
+      <style>
+        .tags {
+          display: flex;
+          flex-wrap: wrap;
+          height: 100%;
+          width: 100%;
+        }
+        .tag {
+          background-color: #E3FFFF;
+          border-radius: 0.25em;
+          color: #01579b;
+          border: 1px solid #002f6c;
+          display: inline-block;
+          font-size: 0.75em;
+          line-height: 2em;
+          margin: 0.125em;
+          padding: 0 0.5em;
+          text-decoration: none;
+          font-family: sans-serif;
+        }
+      </style>
+
+      <div class="tags">
+        <div class="tag">Dart</div>
+        <div class="tag">Flutter</div>
+        <div class="tag">Building UIs</div>
+        <div class="tag">Markdown</div>
+      </div>
+      <div class="tags">
+        <div class="tag">Design</div>
+        <div class="tag">DevOps</div>
+        <div class="tag">Writing</div>
+      </div>
+      <div class="tags">
+        <div class="tag">Node</div>
+        <div class="tag">Javascript</div>
+        <div class="tag">Marketing</div>
+      </div>
+      <div class="tags">
+        <div class="tag">Java</div>
+        <div class="tag">Kotlin</div>
+        <div class="tag">Gradle</div>
+      </div>
+      <div class="tags">
+        <div class="tags">ObjC</div>
+        <div class="tags">Swift</div>
+        <div class="tags">C/C++</div>
+        <div class="tags">Make</div>
+     </div>
+
+    </div>
+  </foreignObject>
+</svg>
