@@ -17,4 +17,4 @@ You can DM me at my KeyBase Profile:
 
 I publish raw WIP chapters of my books at my Medium blog:
 
-{My Medium Blog](https://fredgrott.medium.com)
+{My Medium Blog](https://fredgrott.substack.com)
